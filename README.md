@@ -2,7 +2,7 @@
 
 ### What is AutoGen?
 
-AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks. AutoGen agents are customizable, conversable, and seamlessly allow human participation. They can operate in various modes that employ combinations of LLMs, human inputs, and tools.
+AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other or to solve tasks. AutoGen agents are customizable, conversable, and seamlessly allow human participation. They can operate in various modes that employ combinations of LLMs, human inputs, and tools.
 
 ### Installation
 
@@ -23,7 +23,7 @@ To run LLMs locally, use the following tools:
 ### Tutorials and Guides
 
 * [Introduction: AutoGen Tutorial 🚀 : Create custom AI agents easily](https://www.youtube.com/watch?v=vU2S6dVf79M&list=PLp9pLaqAQbY2vUjGEVgz8yAOdJlyy3AQb&index=2)
-* [Autogen Full Beginer Course](https://www.youtube.com/watch?v=JmjxwTEJSE8)
+* [Autogen Full beginner Course](https://www.youtube.com/watch?v=JmjxwTEJSE8)
 * [Tutorial: Autogen Full Beginner Course : Build agentic AI apps with the AutoGen framework](https://www.youtube.com/watch?v=FkFKWVQytnY)
 * [FAQs related to AutoGen](https://microsoft.github.io/autogen/docs/FAQ/#set-your-api-endpoints): Frequently asked questions
 
