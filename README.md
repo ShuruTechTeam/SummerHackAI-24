@@ -1,4 +1,19 @@
-# Shuru SummerHack'24
+![summerhack24](assets/summerhack24.png)
+
+<div align="center">
+
+# *Shuru Summer Hack '24*: Building a No-Code AI Agent Playground
+<br>
+
+#### ```Think of a space where you can create and interact with digital characters that can chat, learn, and adapt. What would you build? Who would you create?```
+
+<br>
+Our goal is to make AI tools more accessible and user-friendly. We want to create a no-code tool where people can design, deploy, and chat with personalized AI agents in a simple and intuitive way. <br>
+Would you invite other agents into your playground? Would you keep the playground public? <br> Think of fun interactions that could take place between the agents and users! <br>
+Over the month of June, you'll work on a range of challenges, from designing UI/UX and character avatars, to developing AI script systems and building a web interface. We'll provide the resources and support – you bring your coding skills!
+
+</div>
+
 
 ### What is AutoGen?
 
