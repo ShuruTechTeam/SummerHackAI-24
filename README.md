@@ -57,3 +57,13 @@ To run LLMs locally, use the following tools:
 * [Agent GroupChat](https://github.com/microsoft/autogen/blob/main/notebook/agentchat_groupchat.ipynb): An example of multiple agents conversing in a group chat
 * [Nested Chats](https://microsoft.github.io/autogen/docs/notebooks/agentchat_nestedchat): Solving complex tasks with nested chats
 * [AutoGen All Examples](https://microsoft.github.io/autogen/docs/Examples): A collection of all AutoGen examples
+
+
+### Judging Criteria
+
+The whole process can be divided into subtasks and we will be judging your submissions based on these smaller tasks. Your overall score will depend on how well you perform in these individual tasks. 
+We also encourage every team member to understand each stage of the process so that you build the best tool possible.
+
+<img width="1812" alt="Judging Criteria" src="https://github.com/ShuruTechTeam/SummerHackAI-24/assets/74584143/5c3cddb6-11e1-4f4c-ac05-35918651b73f">
+
+
